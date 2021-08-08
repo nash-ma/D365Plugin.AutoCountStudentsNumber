@@ -92,10 +92,10 @@ namespace D365Plugin.autoCountStudentsNumber
                         // トレースログ
                         tracingService.Trace("開始：変更前「クラス名」の取得処理...");
 
-                        // 2.1 プレーイメージプロパティが存在且つエンティティか
+                        // 2.1 プレイメージプロパティが存在且つエンティティか
                         if (context.PreEntityImages.Contains(PRE_IMAGE_ALIAS) && context.PreEntityImages[PRE_IMAGE_ALIAS] is Entity)
                         {
-                            // プレーイメージを取得
+                            // プレイメージを取得
                             Entity preImageEntity = (Entity)context.PreEntityImages[PRE_IMAGE_ALIAS];
                             tracingService.Trace($"{PRE_IMAGE_ALIAS}の取得が成功した。");
 
