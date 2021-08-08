@@ -1,0 +1,9 @@
+C:\Users\ycma\Desktop\E-MA\99.Days\2021Year\20210808\D365Plugin.autoCountStudentsNumber\bin\Debug\D365Plugin.autoCountStudentsNumber.dll
+C:\Users\ycma\Desktop\E-MA\99.Days\2021Year\20210808\D365Plugin.autoCountStudentsNumber\bin\Debug\D365Plugin.autoCountStudentsNumber.pdb
+C:\Users\ycma\Desktop\E-MA\99.Days\2021Year\20210808\D365Plugin.autoCountStudentsNumber\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\ycma\Desktop\E-MA\99.Days\2021Year\20210808\D365Plugin.autoCountStudentsNumber\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\ycma\Desktop\E-MA\99.Days\2021Year\20210808\D365Plugin.autoCountStudentsNumber\obj\Debug\D365Plugin.autoCountStudentsNumber.csprojAssemblyReference.cache
+C:\Users\ycma\Desktop\E-MA\99.Days\2021Year\20210808\D365Plugin.autoCountStudentsNumber\obj\Debug\D365Plugin.autoCountStudentsNumber.csproj.CoreCompileInputs.cache
+C:\Users\ycma\Desktop\E-MA\99.Days\2021Year\20210808\D365Plugin.autoCountStudentsNumber\obj\Debug\D365Plugin.autoCountStudentsNumber.csproj.CopyComplete
+C:\Users\ycma\Desktop\E-MA\99.Days\2021Year\20210808\D365Plugin.autoCountStudentsNumber\obj\Debug\D365Plugin.autoCountStudentsNumber.dll
+C:\Users\ycma\Desktop\E-MA\99.Days\2021Year\20210808\D365Plugin.autoCountStudentsNumber\obj\Debug\D365Plugin.autoCountStudentsNumber.pdb
